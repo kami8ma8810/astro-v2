@@ -1,0 +1,23 @@
+{
+  "name": "astro-v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kami8ma8810/astro-v2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kami8ma8810/astro-v2/issues"
+  },
+  "homepage": "https://github.com/kami8ma8810/astro-v2#readme",
+  "dependencies": {
+    "astro": "^2.0.1"
+  }
+}
